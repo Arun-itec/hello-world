@@ -1,2 +1,2 @@
 # hello-world
-Sample program
+Sample Hi I am at uni.
